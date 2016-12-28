@@ -7,7 +7,7 @@
 #!#Product:  PowerShell,Manage-Firewall
 #!#Modes: Scripting
 #!#Notes:  See GitHub page for latest updates
-#!#Link:  www.githun.com/justin-brazil
+#!#Link:  https://github.com/justin-brazil/Manage-Firewall
 #!#Group:  Windows OS Utilities
 #!#Special:  
 ####################/SCRIPT_CONTROLS##
